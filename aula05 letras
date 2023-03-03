@@ -1,0 +1,11 @@
+void main() {
+   
+ var nome = "An";
+  
+  if( nome == "Ana"){;
+print('Ana Julya Sabatke');
+}else{
+  print('Ana Julya ');
+     }
+
+}
